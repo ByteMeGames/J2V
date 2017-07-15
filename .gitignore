@@ -1,4 +1,5 @@
 *.VC*
+*.vs/
 
 # Compiled Object files
 *.slo
